@@ -1,3 +1,4 @@
+![logo](https://github.com/anuritgit1/anuritgit1/blob/master/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm *: 🎀 𝒜𝓃𝓊𝓇𝒶𝑔 𝒫𝒶𝓃𝒹𝑒𝓎 🎀 :*</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
